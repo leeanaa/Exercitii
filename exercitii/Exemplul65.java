@@ -1,0 +1,1 @@
+//65.Write a Java program to calculate the modules of two numbers without using any inbuilt modulus operator.

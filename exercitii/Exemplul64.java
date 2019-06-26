@@ -1,0 +1,1 @@
+//64. two integer values between 25 to 75 and return true if there is a common digit in both numbers.
